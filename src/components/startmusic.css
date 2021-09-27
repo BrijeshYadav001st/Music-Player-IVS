@@ -1,0 +1,122 @@
+.start-music-body{
+    background-color: rgb(66, 66, 250);
+    margin-top: 350px;
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+    position: relative;
+}
+.start-music-header{
+    text-align: center;
+    padding: 14px;
+}
+.start-music-add{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.start-music-pastlink{
+    margin-top: 35px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 1100px;
+    background: #E9E7E7;
+    border-radius: 3px;
+    position: relative;
+    border: none;
+    outline: none;
+
+}
+.btn-tbn-block-cloud{
+    margin-top: 35px;
+    margin-right: 495px;
+    height: 40px;
+    width: 55px;
+    border: none;
+    outline: none;
+    background-image: url('./components/images/cloud-upload-alt-solid.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 2px;
+    position: relative;
+
+}
+
+.btn-tbn-block-add{
+    margin-right: 150px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    background: #FFFFFF;
+    position: relative;
+}
+
+.btn-tbn-block-music{
+    margin-left: 60px;
+    margin-top: 35px;
+    height: 45px;
+    width: 45px; 
+    border: 10px;
+    background-color: #E9E7E7;
+    border: none;
+    outline: none;
+    position: relative;
+    background-image: url('./components/images/886fe1d5d86d51f773294f1705b19268.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 40px;
+}
+.start-music-songtitle{
+    margin-top: 35px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    height: 40px;
+    width: 1100px;
+    background: #E9E7E7;
+    position: relative;
+    border: none;
+    outline: none;
+    
+}
+.btn-tbn-block-pouse{
+    margin-top: 35px;
+    margin-right: 480px;
+    height: 40px;
+    width: 55px;
+    border: none;
+    outline: none;
+    position: relative;
+    background-image: url('./components/images/play-solid.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 2px;
+    
+}
+.btn-tbn-block-remove{
+    margin-top: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    background: #FFFFFF;
+    margin-right: 150px;
+
+}
+.start-music-remove{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.btn-tbn-block{
+    margin-top: 29px;
+    background-color:rgb(236, 236, 85) ;
+    height: 50px;
+    width: 100%; 
+}
